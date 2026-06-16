@@ -8,19 +8,19 @@
 ভুল অ্যাপ্রোচ:
 
 HTML
-<div class="header">...</div>
-<div class="sidebar">...</div>
+`<div class="header">...</div>
+<div class="sidebar">...</div>`
 
 প্রফেশনাল আর্কিটেকচার:
 
 HTML
-<header role="banner">...</header>
+`<header role="banner">...</header>
 <main>
         <section id="features">
         <article>...</article> </section>
         <aside>...</aside> </main>
         <footer>...</footer>
-</main>      
+</main> `     
 
 **২. অ্যাক্সেসিবিলিটি (A11y) এবং ARIA Attributes**
 
